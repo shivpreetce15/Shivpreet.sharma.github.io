@@ -5219,28 +5219,6 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/colors-2203720-1280-1280x853.jpg");
 }
-.cid-r7u4pi5CTp {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: #ffffff;
-  background: linear-gradient(0deg, #149dcc, #ffffff);
-}
-.cid-r7u4pi5CTp .image-block {
-  margin: auto;
-}
-.cid-r7u4pi5CTp figcaption {
-  position: relative;
-}
-.cid-r7u4pi5CTp figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-r7u4pi5CTp .image-block {
-    width: 100% !important;
-  }
-}
 .cid-qRsrFcR5JF {
   padding-top: 60px;
   padding-bottom: 0px;
@@ -5273,6 +5251,9 @@ body {
   height: 25px;
   border-radius: 50%;
   content: '✓';
+}
+.cid-qRsrFcR5JF .mbr-text {
+  color: #080808;
 }
 .cid-rvrootSjNw {
   padding-top: 45px;
